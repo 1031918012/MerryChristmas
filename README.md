@@ -1,9 +1,11 @@
 ## 圣诞快乐
 
+从[掘金](https://juejin.cn/post/7042544790562406408#comment)上看到的，挂载到 `GitHub Pages` 上，分享给喜欢的人看。
+
+如果你喜欢的话，可以下载或者 `fork` 到自己的仓库，修改下对应的文字。挂载到自己的 `GitHub Pages` 下。
+
+<img src="./preview.gif" alt="preview" style="zoom:50%;" />
 
 
-<img src="/Users/mac/Library/Application Support/typora-user-images/image-20211224102435093.png" alt="image-20211224102435093" style="zoom: 33%;" />
 
-
-
-从[掘金](https://juejin.cn/post/7042544790562406408#comment)上看到的，想着挂载到服务器上，分享给喜欢的人看。
+> PS：我只是个搬运工。

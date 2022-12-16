@@ -1,6 +1,6 @@
 ## 圣诞快乐
 
-[效果预览](https://jwautumn.github.io/MerryChristmas/index)
+[效果预览](https://eyym.github.io/MerryChristmas/)
 
 从[掘金](https://juejin.cn/post/7042544790562406408#comment)上看到的，挂载到 `GitHub Pages` 上，分享给喜欢的人看。
 
@@ -8,6 +8,3 @@
 
 <img src="./preview.gif" alt="preview" style="zoom:50%;" />
 
-
-
-> PS：我只是个搬运工。

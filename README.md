@@ -1,6 +1,6 @@
 ## 圣诞快乐
 
-[效果预览](https://https://eyym.github.io/MerryChristmas/index)
+[效果预览](https://eyym.github.io/MerryChristmas/)
 
 从[掘金](https://juejin.cn/post/7042544790562406408#comment)上看到的，挂载到 `GitHub Pages` 上，分享给喜欢的人看。
 

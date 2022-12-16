@@ -8,6 +8,3 @@
 
 <img src="./preview.gif" alt="preview" style="zoom:50%;" />
 
-
-
-> PS：我只是个搬运工。
